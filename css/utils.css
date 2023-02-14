@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;200&display=swap');
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn{
+    color: white;
+padding: 5px 10px;
+background-color: var(--main-bg-color);
+border: 1px solid white;
+border-radius: 7px;
+cursor: pointer;
+font-family: 'Jost', sans-serif;
+}
+.btn:hover{
+    font-weight:bolder;
+}
+.text-center{
+    text-align: center;
+}
+.my-2{
+    margin: 26 0px;
+}
+.my-1{
+    margin:5 0px;
+}
